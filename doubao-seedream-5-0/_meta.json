@@ -1,0 +1,11 @@
+{
+  "owner": "artsapi",
+  "slug": "doubao-seedream-5-0",
+  "displayName": "Doubao Seedream 5.0 Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1778205707,
+    "commit": "https://github.com/artsapi/skills/commit/doubao-seedream-5-0-initial"
+  },
+  "history": []
+}
