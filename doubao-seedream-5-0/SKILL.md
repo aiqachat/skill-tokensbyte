@@ -41,7 +41,7 @@ Use this skill when:
 export ARTS_API_KEY="your-api-key-here"
 
 # Optional: API Base URL（默认已配置）
-export ARTS_API_BASE="https://apis.artsapi.com/v1"
+export ARTS_API_BASE="https://ai.artsapi.com/v1"
 ```
 
 脚本会优先使用环境变量配置。

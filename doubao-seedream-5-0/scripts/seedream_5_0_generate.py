@@ -29,7 +29,7 @@ import httpx
 
 # Configuration constants
 API_KEY = os.getenv("ARTS_API_KEY")
-API_BASE = os.getenv("ARTS_API_BASE", "https://apis.artsapi.com/v1").rstrip("/")
+API_BASE = os.getenv("ARTS_API_BASE", "https://ai.artsapi.com/v1").rstrip("/")
 
 # Model name
 MODEL_NAME = "doubao-seedream-5-0-260128"
